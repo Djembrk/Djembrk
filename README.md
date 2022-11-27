@@ -4,7 +4,7 @@
 <h2> 👨‍💻 | Mes Projets </h2>
 
 - <b> Projet de Stage 1 er année BTS SNIR </b>
-  - [Dashboard KPI](https://github.com/)
+  - [Dashboard KPI](https://github.com/Djembrk/Dashboard-KPI)
   
 - <b> Projet de Site Web  1 er année BTS SNIR </b>
   - [Site Web Ca envoi du Bois ! ](https://github.com/Djembrk/SiteWeb-BTS-SNIR)
