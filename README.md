@@ -16,7 +16,7 @@
 
 <h2> 🤖 | Participation à la coupe de robotique 2022 </h2>
 
-- <b> Participation avec le lycée sour le nom "M2SN" </b>
+- <b> Participation avec le lycée sous le nom "M2SN" </b>
   - [Classement 29 ème sur 66 participants ](https://www.coupederobotique.fr/classement-coupe-de-robotique-2022/)
   
 - <b> Code C++ de ma partie </b>
