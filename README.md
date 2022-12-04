@@ -1,5 +1,5 @@
-<h1>Salut , Je suis Djem ! </h1>
-<h2> → Étudiant en BTS Informatique et Réseau 💻 </h2>
+<h1> Hi 👋, I'm Djem </h1>
+<h2> → Student in BTS IT and Network 💻 </h2>
 
 <h2> 👨‍💻 | My Projects :</h2>
 
